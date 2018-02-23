@@ -1,2 +1,2 @@
-# avalia_natureza
-Aplicação em WP para fazer avaliações da natureza humana e devolutiva automatizada
+# avaliação da Natureza Humana
+Aplicação em WordPress para fazer avaliações da natureza humana e devolutiva automatizada
